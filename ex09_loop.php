@@ -21,7 +21,7 @@ for($f=20;$f>10;$f--){
 
 echo "<br>";
 
-$arr=array("ne","es","fe");
+$arr=array("red","blue","green");
 foreach($arr as $mn){
     echo "Inside foreach array : ".$mn."<br>";
 } 
